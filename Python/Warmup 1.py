@@ -50,6 +50,8 @@ def near_hundred(n):
 #Given 2 int values, return True if one is negative and one is positive.
 #Except if the parameter "negative" is True, then return True only if both are negative.
 
+
+
 #Q9
 #Given a string, return a new string where "not " has been added to the front. 
 #However, if the string already begins with "not", return the string unchanged. 
