@@ -17,6 +17,5 @@ def front_times(str, n):
 #Q3
 #Given a string, return a new string made of every other char starting with the first, so "Hello" yields "Hlo".
 
-def string_bits(str):
-    for string in str:
-        
+#def string_bits(str):
+#    for string in 
